@@ -1,0 +1,12 @@
+1. Download haarcascade for the german number plate...... (completed)
+***2. Import the necessary libraries i.e opencv, easyocr
+      import cv2
+      import easyocr (completed)
+3. Read the downloaded haarcascade file with extension .xml
+4. I have to open my webcam.
+5. when ever the number plate is detected I have to draw bounding box.
+6. If the number plate is detected extract the text using easyocr.
+
+
+
+Watch some opencv projects.
